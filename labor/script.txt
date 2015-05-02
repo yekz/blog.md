@@ -1,0 +1,19 @@
+随便收藏一个网页，编辑它的名字为“解除网页限制”，并修改链接成下面的代码。
+以后遇到不能复制/限制右键的网页时，只需一键按下收藏夹里的这个“解除网页限制”书签，瞬间就破解了！
+
+或者将代码直接粘贴到浏览器地址栏确认即可破解。
+
+
+
+javascript:eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('4 6(){0.k=0.e=0.g=0.f=4(){h j};i("\\8\\7\\a\\d\\c\\n\\b\\9\\l\\y\\x\\w\\z\\C\\A\\B\\1\\1\\1\\2\\v\\3\\p\\3\\q\\m\\5\\o\\t\\2\\u\\5\\r\\s")};6();',39,39,'document|x77|x2e|x65|function|x6f|go|u89e3|u7834|u591a|u6210|u66f4|x21|u529f|oncontextmenu|onkeydown|onmousedown|return|alert|true|onselectstart|u7cbe|x68||x6e|x6b|x7a|x6d|u3011|x67|x63|x79|u8bf7|uff0c|u5f69|u8fdb|uff1a|u3010|u5165'.split('|'),0,{}))
+
+
+
+
+更多精彩：www.yekezhong.com
+
+【以人为本 | 以技术为魂 | 以社会为舞台 | 以竞争为动力】
+     Powered By & Copy Right 大学生网络技术协会
+                    AT 2012.6.
+
+
